@@ -1,0 +1,65 @@
+
+
+.header {
+    width: 75%;
+    height: 150px;
+    background: white;
+    border: solid;
+    border-width: thick;
+}
+
+.center-mid {
+
+  background: yellow;
+  width:50%;
+  height: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 180px;
+
+}
+
+.mid-border {
+  width: 80%;
+  background:black;
+  height: 120px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: dotted;
+
+}
+
+.left-sq {
+  background: purple;
+  width: 35px;
+  height: 105px;
+  position: absolute;
+  right: 96%;
+  top: 50px;
+
+}
+
+.right-sq {
+  background: green;
+  width: 500px;
+  height: 130px;
+  position: absolute;
+  right: 57%;
+  top: 25px;
+
+}
+
+.circle {
+
+}
+
+.footer {
+  border: solid;
+  height: 300px;
+  width: 45%;
+  position: absolute;
+  right: 39%;
+  text-align: center;
+
+
+}
