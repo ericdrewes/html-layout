@@ -1,0 +1,51 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  height: 100px;
+  width: 100%;
+}
+
+.row-big {
+  height: 200px;
+  width: 100%;
+}
+
+.row-1 {
+  background-color: #D8D8D8;
+  padding: 25px;
+  box-sizing: border-box;
+}
+
+.row-1-div {
+  width: 80px;
+  height: 80px;
+  background-color: #4A90E2;
+}
+
+.row-2 {
+  background-color: #fff;
+  box-sizing: border-box;
+  padding: 50px;
+}
+
+.row-3 {
+  background-color: #4A90E2;
+  height:125px;
+}
+
+.row-4 {
+  background-color: #50E3C2;
+  height: 125px;
+}
+
+.row-5 {
+  background-color: #B8E986;
+  height: 125px;
+}
+
+.row-6 {
+  background-color: #F8E71C;
+  height: 125px;
